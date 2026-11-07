@@ -1,0 +1,6 @@
+{
+  "cycle_s": 70,
+  "windows": [
+    {"name": "Trial", "scheduled_min": 5, "demand": 2, "exclusions_min": [[1, 2], [3, 4]]}
+  ]
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="360" viewBox="0 0 840 360" font-family="DejaVu Sans">
+<rect x="0" y="0" width="840" height="360" rx="0" fill="#f7f9fc"/>
+<text x="46" y="56" fill="#102a43" text-anchor="start" font-size="35" font-weight="700">Overlapping stops count once</text>
+<text x="46" y="94" fill="#465b72" text-anchor="start" font-size="24" font-weight="400">480 scheduled minutes • offsets from shift start</text>
+<rect x="46" y="136" width="748" height="46" rx="8" fill="#dbe9f8"/>
+<text x="46" y="226" fill="#a44512" text-anchor="start" font-size="25" font-weight="700">Planned exclusions merged</text>
+<rect x="233" y="136" width="23.375" height="46" rx="0" fill="#a44512"/>
+<rect x="243.688" y="182" width="2" height="13" rx="0" fill="#a44512"/>
+<text x="244.688" y="263" fill="#a44512" text-anchor="middle" font-size="26" font-weight="700">120 to 135</text>
+<rect x="420" y="136" width="62.3333" height="46" rx="0" fill="#a44512"/>
+<rect x="450.167" y="182" width="2" height="13" rx="0" fill="#a44512"/>
+<text x="451.167" y="263" fill="#a44512" text-anchor="middle" font-size="26" font-weight="700">240 to 280</text>
+<text x="46" y="326" fill="#a44512" text-anchor="start" font-size="27" font-weight="700">55 min excluded</text>
+<text x="794" y="326" fill="#21528e" text-anchor="end" font-size="27" font-weight="700">425 min available</text>
+</svg>

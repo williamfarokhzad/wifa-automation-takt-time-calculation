@@ -1,0 +1,6 @@
+{
+  "cycle_s": 45,
+  "windows": [
+    {"name": "Standby", "scheduled_min": 60, "demand": 0, "exclusions_min": []}
+  ]
+}

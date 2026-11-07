@@ -1,0 +1,7 @@
+{
+  "cycle_s": 60,
+  "windows": [
+    {"name": "Early", "scheduled_min": 240, "demand": 180, "exclusions_min": [[120, 135]]},
+    {"name": "Late", "scheduled_min": 240, "demand": 260, "exclusions_min": [[120, 135]]}
+  ]
+}

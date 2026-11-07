@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="435" viewBox="0 0 840 435" font-family="DejaVu Sans">
+<rect x="0" y="0" width="840" height="435" rx="0" fill="#f7f9fc"/>
+<text x="46" y="56" fill="#102a43" text-anchor="start" font-size="32" font-weight="700">A daily surplus can hide a late shortage</text>
+<text x="46" y="95" fill="#465b72" text-anchor="start" font-size="23" font-weight="400">Demand and modeled capacity, in whole units</text>
+<rect x="46" y="121" width="20" height="20" rx="3" fill="#21528e"/>
+<text x="75" y="140" fill="#102a43" text-anchor="start" font-size="23" font-weight="400">Demand</text>
+<rect x="220" y="121" width="20" height="20" rx="3" fill="#10736a"/>
+<text x="250" y="140" fill="#102a43" text-anchor="start" font-size="23" font-weight="400">Capacity</text>
+<text x="46" y="214" fill="#102a43" text-anchor="start" font-size="27" font-weight="700">Early</text>
+<rect x="155" y="174" width="325.385" height="28" rx="4" fill="#21528e"/>
+<rect x="155" y="208" width="406.731" height="28" rx="4" fill="#10736a"/>
+<text x="495.385" y="197" fill="#21528e" text-anchor="start" font-size="23" font-weight="700">180</text>
+<text x="576.731" y="231" fill="#10736a" text-anchor="start" font-size="23" font-weight="700">225</text>
+<text x="793" y="213" fill="#10736a" text-anchor="end" font-size="27" font-weight="700">+45</text>
+<text x="46" y="312" fill="#102a43" text-anchor="start" font-size="27" font-weight="700">Late</text>
+<rect x="155" y="272" width="470" height="28" rx="4" fill="#21528e"/>
+<rect x="155" y="306" width="406.731" height="28" rx="4" fill="#10736a"/>
+<text x="640" y="295" fill="#21528e" text-anchor="start" font-size="23" font-weight="700">260</text>
+<text x="576.731" y="329" fill="#10736a" text-anchor="start" font-size="23" font-weight="700">225</text>
+<text x="793" y="311" fill="#a44512" text-anchor="end" font-size="27" font-weight="700">-35</text>
+<rect x="46" y="358" width="748" height="52" rx="7" fill="#e8effa"/>
+<text x="64" y="392" fill="#102a43" text-anchor="start" font-size="26" font-weight="700">Pooled margin: +10  |  Late margin: -35</text>
+</svg>

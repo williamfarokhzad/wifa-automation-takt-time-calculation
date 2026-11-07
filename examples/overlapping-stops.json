@@ -1,0 +1,6 @@
+{
+  "cycle_s": 55,
+  "windows": [
+    {"name": "Day shift", "scheduled_min": 480, "demand": 450, "exclusions_min": [[260, 280], [120, 135], [240, 270]]}
+  ]
+}
